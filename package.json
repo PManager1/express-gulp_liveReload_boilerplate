@@ -1,0 +1,15 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.2.0",
+  "description": "a starting point for using gulp",
+  "devDependencies": {
+    "connect-livereload": "~0.3.2",
+    "express": "~3.4.8",
+    "gulp": "^3.8.10",
+    "gulp-coffee": "~1.4.1",
+    "gulp-jade": "~0.4.2",
+    "gulp-sass": "~0.7.1",
+    "gulp-util": "~2.2.14",
+    "tiny-lr": "0.0.5"
+  }
+}
